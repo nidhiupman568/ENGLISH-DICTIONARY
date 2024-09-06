@@ -2,6 +2,8 @@
 
 Welcome to the **English Dictionary** project! 🎉 This web application, built with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, allows you to explore the meanings, pronunciations, and audio of English words using an API 🌐. Enhance your vocabulary and pronunciation skills effortlessly 📚🔊.
 
+Project Demo: https://nidhiupman568.github.io/ENGLISH-DICTIONARY/
+
 ## Features ✨
 
 - 🔍 Retrieves definitions from an API based on user input.
